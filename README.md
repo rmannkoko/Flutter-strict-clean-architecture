@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 Flutter Clean Architecture - Post App (Feature-Driven)
 
 Ce projet est une application Flutter respectant les principes de :
@@ -47,3 +48,6 @@ lib/
 │       ├── screens/               # UI Screens (PostList, PostDetail, PostForm)
 │       └── widgets/               # UI Components
 └── main.dart                      # Entrée principale avec injection
+=======
+# Flutter-strict-clean-architecture
+>>>>>>> 2e245f7336862f9b338f8738ca76496b65d4b651
