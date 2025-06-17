@@ -10,24 +10,11 @@ Ce projet est une application Flutter respectant les principes de :
 - ✅ **Bloc State Management**
 - ✅ **Dependence Injection (GetIt)**
 - ✅ **REST API Integration** (JSONPlaceholder)
+- ✅ **CRUD POST** 
 
 ---
 
-## 🚀 Fonctionnalités
-
-- 🔍 Lister les posts
-- 📄 Voir les détails d’un post
-- ✍️ Créer un nouveau post
-- 🖋️ Modifier un post existant
-- ❌ Supprimer un post avec confirmation
-- 🧪 Tests unitaires & tests de performance
-- 🔌 Architecture scalable et découplée
-
-> ⚠️ Mode **Offline** non implémenté pour le moment
-
----
-
-## 🗂️ Structure du projet
+## Structure du projet
 
 ```bash
 lib/
